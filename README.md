@@ -1,5 +1,7 @@
-# git_test
-```html
-<h>My first Github repo</h>
-<p>Just beginning my Github journey</p>
-```
+# My GitHub README
+
+Welcome to my README!
+
+<div align="center">
+    <img src="example.svg" width="400" height="400" alt="css-in-readme">
+</div>
